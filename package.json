@@ -1,0 +1,21 @@
+{
+	"name": "dojo-esri-boilerplate-revisited",
+	"description": "Esri JS API boilerplate application using Bootstrap Map",
+	"version": "1.0.0",
+	"main": "main",
+	"dependencies": {
+		"express": "3.x"
+	},
+	"deveDependencies": {
+		"jshint": "2.x",
+		"nodemon": "1.x"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/sevenninety/dojo-esri-boilerplate-revisited/blob/master/LICENSE"
+		}
+	],
+	"homepage": "https://github.com/sevenninety/fdojo-esri-boilerplate-revisited/",
+	"readmeFilename": "README.md"
+}
